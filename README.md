@@ -1,4 +1,4 @@
-# Orange County Census + Network Directory<br>
+# [Orange County Census + Network Directory](http://ocshield.herokuapp.com)<br>
 ### Hosted by [Charitable Ventures of Orange County](https://charitableventuresoc.org/) and [Good Work Collaborative](https://www.ourgoodwork.co/) (2022)<br>
 ### About<br>
 This map and table directory show which organizations reported outreach activities in Orange County for the 2020 Census. The information is organized and presented by city, outreach language, and demographic focus (i.e. "hard-to-count" (HTC) characteristic). The darker the color of the city on the map, the more organizations that reported outreach activities. For example, according to the map, more organizations reported census outreach activities in Santa Ana (22) than in Newport Beach (1).<br>
