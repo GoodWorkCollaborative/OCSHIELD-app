@@ -1,32 +1,11 @@
-Heroku makes deployment of arbitrary apps including Panel apps and dashboards very easy and provides a free tier to get you started. This makes it a great starting point for users not too familiar with web development and deployment.
-
-To get started working with Heroku [signup](https://signup.heroku.com) for a free account and [download and install the CLI](https://devcenter.heroku.com/articles/getting-started-with-python#set-up). Once you are set up follow the instructions to log into the CLI.
-
-## Deploying this app
-
-1. Clone this repository
-
-2. Modify the `Procfile` which declares which command Heroku should run to serve the app. In this sample app the following command serves the `iris_kmeans.ipynb` example and the websocket origin should match the name of the app on Heroku `app-name.herokuapp.com` which you will declare in the next step:
-
-```
-web: panel serve --address="0.0.0.0" --port=$PORT iris_kmeans.ipynb --allow-websocket-origin=app-name.herokuapp.com
-```
-
-4. Create a heroku app using the CLI ensuring that the name matches the URL we declared in the previous step:
-
-```
-heroku create app-name
-```
-
-5. Push the app to heroku and wait until it is deployed:
-
-```
-git push heroku master
-```
-
-6. Visit the app at app-name.herokuapp.com
-
-
-## Modifying the app
-
-In order to serve your own app simply replace the `iris_kmeans.ipynb` with your own Jupyter notebook or Python file declaring a Panel app and then modify the `Procfile` to start that app instead.
+# Orange County Census + Network Directory<br>
+### Hosted by [Charitable Ventures of Orange County](https://charitableventuresoc.org/) and [Good Work Collaborative](https://www.ourgoodwork.co/) (2022)<br>
+### About<br>
+This map and table directory show which organizations reported outreach activities in Orange County for the 2020 Census. The information is organized and presented by city, outreach language, and demographic focus (i.e. "hard-to-count" (HTC) characteristic). The darker the color of the city on the map, the more organizations that reported outreach activities. For example, according to the map, more organizations reported census outreach activities in Santa Ana (22) than in Newport Beach (1).<br>
+### Instructions:<br>
+- <b>Simple Search or Advanced Search:</b>
+	- <b>Simple Search:</b> Click any city on the map to see how many organizations reported outreach activities for the 2020 Census in that city. A list of those organizations will appear in the table below, along with details about their reported activities.
+	- <b>Advanced Search:</b> Enter the city name(s), language(s), and/or "hard-to-count characteristic(s)" into the appropriate search fields below, and then press "enter" on your keyboard. Note that the fields are case sensitive and names must be typed exactly as they appear (e.g., "Anaheim", not "anaheim").
+- <b>Sort Table:</b> Click the header of the column in order to alphabetize that column. For example, click "City" to sort the list of cities in alphabetical order.
+- <b>Download Table:</b> Enter a filename relevant to your search (e.g. Spanish outreach in Anaheim) and click "Download Table", which will save a spreadsheet file in the computer's 'Downloads' or 'Desktop' folder.
+- <b>Reset Search:</b> Delete any words in the search fields and press 'enter' on your keyboard to reset your search.
