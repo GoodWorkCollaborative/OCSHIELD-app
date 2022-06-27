@@ -1,4 +1,7 @@
-- Born Outside of U.S.
-- Children Under 5
-- Limited English Speaking Ability<br>
+- born outside of the U.S.
+- children under 5
+- farmworker
+- houseless
+- immigrant / refugee 
+- LGBTQ+<br>
 <br>
