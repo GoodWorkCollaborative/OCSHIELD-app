@@ -1,8 +1,8 @@
 # Orange County Census+ Network Directory<br>
 ### Hosted by [Charitable Ventures of Orange County](https://charitableventuresoc.org/) and Developed by [Good Work Collaborative](https://www.ourgoodwork.co/) (2022)<br>
-### About<br>
+<br>
 <span style="font-size:16px;" >This map and table directory shows information about the 43 organizations that reported outreach activities in Orange County for the 2020 Census. You may access the directory at [this link.](occensusnetwork.herokuapp.com). 
-<br>
+<br> <br>
 Contact: anne.olin@charitableventuresoc.org
-<br>
+<br> <br>
 Last Updated by Kristin Change, 06/28/22. 
