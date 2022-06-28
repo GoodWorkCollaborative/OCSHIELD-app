@@ -6,4 +6,4 @@ You may access the directory at [occensusnetwork.herokuapp.com](http://occensusn
 <br> <br>
 Contact: anne.olin@charitableventuresoc.org
 <br> <br>
-Last Updated by Kristin Change, 06/28/22. 
+Last Updated by Kristin Chang, 06/28/22. 
