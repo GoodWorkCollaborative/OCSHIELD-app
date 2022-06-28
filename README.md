@@ -1,5 +1,4 @@
 # Orange County Census+ Network Directory<br>
-<br><br>
 You may access the directory at [occensusnetwork.herokuapp.com](http://occensusnetwork.herokuapp.com/2020_directory)
 <br><br>
 ### Hosted by [Charitable Ventures of Orange County](https://charitableventuresoc.org/) and Developed by [Good Work Collaborative](https://www.ourgoodwork.co/) (2022)<br><br>
