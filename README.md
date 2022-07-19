@@ -6,5 +6,5 @@ You may access the directory at [occensusnetwork.herokuapp.com](http://occensusn
 <br> <br>
 Contact: anne.olin@charitableventuresoc.org
 <br> <br>
-*Special thank you to UPenn MUSA Instructor Nick Hand for assistance with this project. <br>
+*Special thank you to UPenn MUSA Instructor Nick Hand for assistance with this project.* <br>
 Last Updated by Kristin Chang, 06/28/22. 
